@@ -4,12 +4,14 @@
   "description": "Code and processed data that reproduce the analysis of fourteen selected-area electron diffraction ring patterns from virgin, reuse, waste and filter Inconel 718 powder from laser powder bed fusion. Each pattern is searched against 575 plausible crystal structures with five scoring rules and tested against 20 decoy libraries, and recovery tests on 3894 synthetic patterns of known structure give a reliability map against ring count and calibration error. SEM particle shape, EDS metal fractions and XPS surface chemistry of the four streams are analysed from the same processed data. The raw TEM, SEM, EDS and XPS files are available from the corresponding author on reasonable request.",
   "creators": [
     {
-      "name": "S, Surya Prakash",
-      "affiliation": "SRM Institute of Science and Technology"
+      "name": "S, SURYA PRAKASH",
+      "affiliation": "SRM Institute of Science and Technology",
+      "orcid": "0000-0002-4153-1268"
     },
     {
-      "name": "S, Vasanth",
-      "affiliation": "King Fahd University of Petroleum and Minerals"
+      "name": "Swaminathan, Vasanth",
+      "affiliation": "King Fahd University of Petroleum and Minerals",
+      "orcid": "0000-0001-8523-0312"
     }
   ],
   "license": "MIT",
