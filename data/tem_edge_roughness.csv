@@ -1,0 +1,15 @@
+stream,arc,arc_length_um,rms_roughness_nm
+waste,E01,5.68,5.7
+waste,E02,4.12,5.11
+waste,E03,3.73,5.7
+waste,E04,3.98,8.87
+reuse,E05,4.62,8.37
+reuse,E06,6.46,7.41
+reuse,E07,6.24,11.54
+reuse,E08,2.31,8.12
+reuse,E09,3.22,7.72
+filter,E10,5.68,10.2
+filter,E11,4.56,4.24
+filter,E12,4.54,13.05
+filter,E13,3.93,4.78
+filter,E14,15.06,5.96

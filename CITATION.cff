@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+message: "If you use this code or data, please cite it as below."
+title: "Ring-based phase identification in Inconel 718 powder streams: code and processed data"
+type: software
+authors:
+  - family-names: "S"
+    given-names: "Surya Prakash"
+    affiliation: "SRM Institute of Science and Technology"
+  - family-names: "S"
+    given-names: "Vasanth"
+    affiliation: "King Fahd University of Petroleum and Minerals"
+license: MIT
+keywords:
+  - electron diffraction
+  - phase identification
+  - Inconel 718
+  - laser powder bed fusion
+  - powder reuse
+  - XPS

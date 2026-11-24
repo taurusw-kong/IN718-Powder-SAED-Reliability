@@ -1,0 +1,7 @@
+#!/usr/bin/env bash
+# Runs the whole analysis. Results go to ../results.
+set -e
+cd "$(dirname "$0")"
+python diffraction.py
+python surfaces.py
+python figures.py

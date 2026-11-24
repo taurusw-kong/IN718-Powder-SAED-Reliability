@@ -1,0 +1,14 @@
+The data files in the data/ folder are licensed under the Creative Commons
+Attribution 4.0 International License (CC BY 4.0).
+
+Copyright (c) 2026 Surya Prakash S and Vasanth S
+
+You are free to share and adapt the data for any purpose, provided that you
+give appropriate credit, provide a link to the licence, and indicate if
+changes were made.
+
+Full licence text: https://creativecommons.org/licenses/by/4.0/legalcode
+
+The candidate crystal structures in candidate_structures.csv and
+candidate_atoms.csv are derived from the Crystallography Open Database,
+which is in the public domain.
