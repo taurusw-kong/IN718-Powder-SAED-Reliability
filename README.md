@@ -55,7 +55,3 @@ The candidate structures come from the Crystallography Open Database (Gražulis 
 ## Licence
 
 Code: MIT (`LICENSE`). Data in `data/`: Creative Commons Attribution 4.0 International (`LICENSE-DATA`).
-
-## Citation
-
-Citation details are in `CITATION.cff`.
