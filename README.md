@@ -1,4 +1,4 @@
-# Ring-based phase identification in Inconel 718 powder streams: code and processed data
+# Ring-based phase identification in Inconel 718 powder streams
 
 This repository reproduces the analysis of fourteen selected-area electron diffraction ring patterns from virgin, reuse, waste and filter Inconel 718 powder from laser powder bed fusion. Each pattern is searched against 575 plausible crystal structures with five scoring rules and tested against 20 decoy libraries, and recovery tests on 3894 synthetic patterns of known structure give a reliability map against ring count and calibration error. SEM particle shape, EDS metal fractions and XPS surface chemistry of the four streams are analysed from the same processed data.
 
